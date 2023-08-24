@@ -27,40 +27,6 @@ body {
 	font-family: "Roboto", sans-serif;
 }
 
-
-
-test{
-	background-color: #e4fc2b;
-	background-color: #e0d426;
-	background-color: #f7d736;
-	background-color: #e0af26;
-	background-color: #fcb02b;
-	background-color: #2c2c2c;
-	background-color: #4c4c4c;
-	background-color: #ead3a7;
-	background-color: #9de0f5;
-	background-color: #ef89ba;
-	background-color: #fae890;
-	background-color: #abe9c1;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* TOPO */
 
 .appbar {
@@ -159,7 +125,7 @@ test{
 
 .card {
 	border-radius: 10px;
-	box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+	box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);
 	padding: 20px;
 	position: relative;
 	overflow: hidden;
@@ -240,21 +206,6 @@ test{
 .card-rotation-11 {
 	transform: rotate(-3deg);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
